@@ -30,5 +30,29 @@
         "status": "En progreso",
         "createdAt": "2024-06-02",
         "updatedAt": "2024-06-02"
+    },
+    {
+        "id": 7,
+        "name": "comprar yerba",
+        "description": null,
+        "status": "to do",
+        "createdAt": "2026-06-07 19:42:18",
+        "updatedAt": "2026-06-07 19:42:18"
+    },
+    {
+        "id": 8,
+        "name": "pushear codigo",
+        "description": "hacer el push al repo",
+        "status": "to do",
+        "createdAt": "2026-06-07 19:43:12",
+        "updatedAt": "2026-06-07 19:43:12"
+    },
+    {
+        "id": 9,
+        "name": "prueba",
+        "description": "tarea de prueba para ver que tal",
+        "status": "done",
+        "createdAt": "2026-06-07 19:50:56",
+        "updatedAt": "2026-06-07 19:50:56"
     }
 ]
