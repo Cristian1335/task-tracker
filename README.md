@@ -1,4 +1,4 @@
-Task Tracker CLI
+# Task Tracker CLI
 Aplicación de línea de comandos para gestión de tareas personales, con persistencia de datos en archivo JSON.
 Proyecto basado en el challenge de roadmap.sh.
 
